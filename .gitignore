@@ -1,0 +1,9 @@
+*.nii
+*.nii.gz
+*.hdr
+*.img
+*.tar.gz
+*.xlsx
+*.csv
+data/
+outputs/
